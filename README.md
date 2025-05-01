@@ -5,7 +5,9 @@ Upload CSV transaction data and generate association rules using the FP-Growth a
 **🔧 How to Run**
 
 1) Clone the project
-
+   
+    git clone https://github.com/Shreya5022123/fp-growth-streamlit.git
+   
 2) run the command on terminal
 
     cmd
