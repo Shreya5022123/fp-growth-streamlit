@@ -1,19 +1,29 @@
-# 📊 Streamlit FP-Growth Rule Miner
+#  Streamlit FP-Growth Rule Miner
 
 Upload CSV transaction data and generate association rules using the FP-Growth algorithm with an interactive UI built in Streamlit.
 
 **🔧 How to Run**
 
-Clone the project and run the command on terminal
+1) Clone the project
 
-cmd
+2) run the command on terminal
+
+  cmd
+
+  
 1.python -m venv venv
+
 2. venv\Scripts\activate.bat
+
 3. pip install streamlit
+
 4.  pip install pandas mlxtend
+
 5.  streamlit run fp_growth_app.py
 
-** Output screen shots:**
+
+**Output screen shots:** 
+
 ![Screenshot 2025-04-14 123224](https://github.com/user-attachments/assets/85e16b88-d6a8-4c81-b30f-3047497413fb)
 
 ![Screenshot 2025-04-14 123301](https://github.com/user-attachments/assets/74cc8428-826d-4f37-a279-12616e22134a)
