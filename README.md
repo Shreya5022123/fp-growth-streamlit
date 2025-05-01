@@ -8,18 +8,17 @@ Upload CSV transaction data and generate association rules using the FP-Growth a
 
 2) run the command on terminal
 
-  cmd
-
-  
-1.python -m venv venv
-
-2. venv\Scripts\activate.bat
-
-3. pip install streamlit
-
-4.  pip install pandas mlxtend
-
-5.  streamlit run fp_growth_app.py
+    cmd
+      
+    1. python -m venv venv
+    
+    2. venv\Scripts\activate.bat
+    
+    3. pip install streamlit
+    
+    4.  pip install pandas mlxtend
+    
+    5.  streamlit run fp_growth_app.py
 
 
 **Output screen shots:** 
